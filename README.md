@@ -1,6 +1,6 @@
-# 🎮 Raspberry Pi AI Games
+**How I Use AI to Code Games on Raspberry Pi 5**  
 
-In this series, I use **ChatGPT** and **Gemini** to help me code fun and simple **Python games** on the **Raspberry Pi 5**. These games are beginner-friendly, creative, and a great way to learn how to prompt AI to build something cool — no stress, just fun!
+In this series, I use **ChatGPT**, **Gemini**, and **Claude** to help me code fun and simple **Python games** on the **Raspberry Pi 5**. These games are beginner-friendly, creative, and a great way to learn how to prompt AI to build something cool — no stress, just fun!
 
 ---
 
@@ -32,6 +32,21 @@ In this series, I use **ChatGPT** and **Gemini** to help me code fun and simple 
 
 ### 🧠 3. Memory Match Game
 - 📄 [memory-game-gemini.py](https://github.com/carolinedunn/rpi-ai-games/blob/main/Gemini/memory-game-gemini.py)
+
+---
+
+## 🤖 Claude Games
+
+🎥 [Watch the Claude Episode](https://youtu.be/sRVRUBq4C5A)
+
+### 🕹️ 1. Rock, Paper, Scissors, Lizard, Spock  
+- 📄 [rock-paper-scissors-lizard-spock-claude.py](https://github.com/carolinedunn/rpi-ai-games/blob/main/Claude/rock-paper-scissors-lizard-spock-claude.py)
+
+### 🎯 2. Number Guessing Game  
+- 📄 [number-guessing-game-claude.py](https://github.com/carolinedunn/rpi-ai-games/blob/main/Claude/number-guessing-game-claude.py)
+
+### 🧠 3. Memory Match Game (GUI)  
+- 📄 [memory-game-gui-claude.py](https://github.com/carolinedunn/rpi-ai-games/blob/main/Claude/memory-game-gui-claude.py)
 
 ---
 
