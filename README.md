@@ -76,4 +76,10 @@ Want to build your own games? Just ask ChatGPT to:
 ```plaintext
 Write a Python game for [your idea] on Raspberry Pi
 ```
+---
 
+## 📚 Author
+Created by **Caroline Dunn**  
+- 🌐 [winningintech.com](https://winningintech.com/)  
+- 📺 [YouTube.com/Caroline](https://www.youtube.com/caroline)  
+- 📘 [A Woman’s Guide to Winning in Tech](https://amzn.to/3YxHVO7)  
